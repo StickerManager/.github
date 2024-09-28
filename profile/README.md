@@ -6,3 +6,5 @@
 👩‍💻 If you need to mount your stickers to other APPs like QQ Wechat and so on, you can use [Sticker Sword](https://github.com/StickerManager/StickerSword), which is a xposed module app.
 
 🍿 To download and share sticker packs, see [Sticker Share](https://github.com/StickerManager/StickerShare).
+
+If you have any problems, go to [discussions](https://github.com/orgs/StickerManager/discussions).
